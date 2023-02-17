@@ -3,6 +3,6 @@ Recipe blog that uses GPT-3 as a backend CDN. Visitors see randomly generated re
 
 # Instructions
 
-``git clone https://github.com/russelnelson/Never-Ending-Pasta-Blog
-npm init -y
-npm install axios``
+``git clone https://github.com/russelnelson/Never-Ending-Pasta-Blog``
+``npm init -y``
+``npm install axios``
